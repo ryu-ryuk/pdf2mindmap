@@ -1,0 +1,8 @@
+flask
+pdfplumber
+camelot-py[cv]
+pymupdf
+spacy
+networkx
+matplotlib
+transformers
