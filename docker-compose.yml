@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  pdf-analysis:
+    image: huridocs/pdf-document-layout-analysis:v0.0.23
+    ports:
+      - "5060:5060"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]

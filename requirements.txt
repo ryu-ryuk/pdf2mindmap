@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 flask
 pdfplumber
 camelot-py[cv]
@@ -6,3 +7,12 @@ spacy
 networkx
 matplotlib
 transformers
+=======
+openai
+python-dotenv
+requests
+matplotlib
+networkx
+pygraphviz
+flask
+>>>>>>> 6196bc3 (feat feat feat)
