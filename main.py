@@ -4,7 +4,7 @@ import argparse
 import json
 from dotenv import load_dotenv
 
-from huridocs_parser import parse_pdf_with_huridocs
+from huridocs_parser import parse_pdf_with_grobid
 from llm_enricher import LLMEnricher
 from mindmap_generator import draw_mindmap
 
@@ -36,7 +36,7 @@ def main(pdf_path, show=True, debug=False):
 
     try:
         logger.info(f"Starting PDF parsing for {pdf_path}...")
-        structured_doc = parse_pdf_with_huridocs(pdf_path)
+        structured_doc = parse_pdf_with_grobid(pdf_path)
 
         # Log the structure of the parsed document
         if debug:

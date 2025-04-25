@@ -1,0 +1,10 @@
+{
+  "title": "<title level=\"a\" type=\"main\">",
+  "sections": [
+    {
+      "heading": "Approach Technical page 07",
+      "content": "Step 1: Understanding Current evdev Backend Analyze device capture logic Identify event handling flows Step 2: Abstract Input Logic Create a Rust trait like InputBackend defining required methods (read_events, filter_devices, etc.) Implement existing code as EvdevBackend Step 3: Implement libinput Backend Setup context and loop through events Use the libinput crate or bind to system libinput Translate libinput events to SWHKD's keybinding logic Step 4: Add Cargo Feature Default to evdev, enable libinput via --features Optional: expose via config.toml too Note: This project excites me because it's a perfect blend of Rust, system design, and Linux ergonomics. I believe this enhancement to SWHKD will strengthen its position as a secure and extensible hotkey daemon for the Wayland ecosystem.",
+      "subsections": []
+    }
+  ]
+}

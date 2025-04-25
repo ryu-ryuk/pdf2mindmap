@@ -1,0 +1,12 @@
+**GALGOTIAS COLLEGE OF ENGINEERING & TECHNOLOGY**  
+**Affiliated to Dr. A.P.J. AKTU, Lucknow**  
+
+**LAB FILE PROGRAMMING FOR PROBLEM SOLVING (BCS 251)**  
+**(Even Semester, 2024-25)**  
+
+**Submitted To:** Faculty Name:  
+**Submitted By:** Student Name: Arshad Khan Roll No.: 09 / Admission No.: 24GCEBEC219  
+**Section:** ECE (Electrical and Computer Engineering)  
+**Branch:** C1  
+
+This content has been restructured for clarity, with proper capitalization, formatting, and organization. The key de

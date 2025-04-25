@@ -1,0 +1,45 @@
+**Galgotias College of Engineering & Technology**
+**Affiliated to Dr. A.P.J. Abdul Kalam Technical University (AKTU), Lucknow**
+
+**Course Details:**
+**Programming for Problem Solving (BCS 251)**
+**Even Semester, 2024-25**
+
+**Submission Details:**
+**Submitted To:** 
+- Faculty Name: Mr. Arshad Khan
+- Faculty Name: Mr. Anuj Gupta
+
+**Submitted By:** 
+- Admission No: 24GCEBEC219
+- Roll No: 09
+- Name: Alok Ranjan
+- Branch: Electronics and Communication Engineering (ECE)
+- Section: C1
+
+**Course Overview:**
+The course "Programming for Problem Solving" is designed to equip students with the fundamental concepts and skills required to analyze problems and develop effective solutions using programming techniques. This course aims to foster critical thinking, logical reasoning, and problem-solving abilities among students, enabling them to tackle complex problems in their respective fields.
+
+**Course Objectives:**
+Upon completing this course, students will be able to:
+1. Understand the basics of programming and problem-solving methodologies.
+2. Develop algorithms and implement them using a programming language.
+3. Analyze problems, identify key issues, and propose viable solutions.
+4. Apply programming concepts to real-world problems, enhancing their critical thinking and logical reasoning skills.
+5. Collaborate effectively in teams to solve complex problems, promoting a deeper understanding of the subject matter.
+
+**Course Outline:**
+The course will cover a range of topics, including:
+1. Introduction to Programming: Basic concepts, data types, variables, control structures, functions, and object-oriented programming.
+2. Problem-Solving Methodologies: Algorithm design, flowcharts, pseudocode, and debugging techniques.
+3. Programming Languages: In-depth study of a programming language (e.g., Python, C++, Java), including syntax, semantics, and best practices.
+4. Data Structures and Algorithms: Arrays, lists, stacks, queues, trees, graphs, sorting, and searching algorithms.
+5. Real-World Applications: Case studies and projects that demonstrate the application of programming concepts to solve real-world problems.
+
+**Assessment and Evaluation:**
+Student performance will be evaluated based on:
+1. Assignments and Quizzes (40%): Regular assignments and quizzes will assess students' understanding of programming concepts and problem-solving skills.
+2. Mid-Term and Final Exams (30%): Comprehensive exams will evaluate students' knowledge and ability to apply programming concepts to solve problems.
+3. Project and Presentation (30%): A semester-long project will require students to work in teams to develop a solution to a real-world problem, demonstrating their programming skills and problem-solving abilities.
+
+By completing this course, students will gain a solid foundation in programming and problem-solving, enabling them to tackle complex challenges in their future careers.

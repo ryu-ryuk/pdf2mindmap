@@ -1,0 +1,1 @@
+● Prepare final report and showcase demo Technical Approach ● Log Collection: Use journalctl, ausearch, and SELinux audit tools to gather logs. ● Preprocessing: Normalize timestamps, extract fields, clean text. ● Modeling: ○ Start with rules/regexes for known log patterns

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Arshad</forename><surname>Khan</surname></persName>
+							<affiliation key="aff0">
+								<orgName type="department">LAB FILE</orgName>
+								<orgName type="institution">Galgotias College of Engineering &amp; Technology Affiliated to Dr.A.P.J AKTU</orgName>
+								<address>
+									<settlement>Lucknow</settlement>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">71B05EB0987E02F0C2F4493B95A28ECF</idno>
+					<note type="submission">Submitted By:-Faculty Name:-Admission No:-24GCEBEC219</note>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.2-SNAPSHOT" ident="GROBID" when="2025-04-25T04:38+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<facsimile>
+		<surface n="1" ulx="0.0" uly="0.0" lrx="596.0" lry="842.0"/>
+	</facsimile>
+	<text>
+		<body/>
+		<back>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

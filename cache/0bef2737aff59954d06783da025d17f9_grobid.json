@@ -1,0 +1,30 @@
+{
+  "title": "Google Summer of Code 2025 Proposal.pdf",
+  "sections": [
+    {
+      "heading": "Page 1",
+      "content": "Google Summer of Code 2025 Proposal\nPersonal Information\nName: Alok Ranjan\nEmail: alokraj3850@gmail.com\nGitHub: ryu-ryuk\nUniversity: IIT Madras\nDegree Program: B.S. in Data Science\nYear of Study: First Year\nTitle\nAI-Powered Log Triage and Security Alert Aggregator for Fedora\nSynopsis\nThis project aims to build an AI-powered tool that collects, parses, classifies, and prioritizes\nsecurity-relevant logs on a Fedora system. It will aggregate data from multiple sources such as\nSELinux, audit logs, and systemd journal, then apply lightweight machine learning/NLP\ntechniques to detect and elevate critical alerts while suppressing routine messages. This will\nimprove system administrator efficiency and response times.\nBenefits to the Community\nThis project enhances the Fedora ecosystem by:\n\u25cf Providing a modern AI-based triage system for security logs\n\u25cf Reducing noise and surfacing critical alerts quickly\n\u25cf Improving incident response for Fedora users and system administrators\n\u25cf Offering an extensible platform that can evolve with newer AI models",
+      "subsections": []
+    },
+    {
+      "heading": "Page 2",
+      "content": "The tool will help Fedora stand out as a security-conscious distro with intelligent log handling.\nDeliverables\n1. Source Code Repository: Python/Bash scripts, ML models, and log parsing logic.\n2. Packaged RPM: A user-installable package for Fedora.\n3. Documentation: Installation, configuration, usage, developer guide.\n4. Prototype/CLI: Real-time demo showcasing live classification and prioritization.\n5. Testing & Evaluation: Unit/integration tests, model benchmarks.\nTimeline\nCommunity Bonding\n\u25cf Connect with mentor and Fedora community\n\u25cf Research log formats (SELinux, journalctl, audit)\n\u25cf Finalize model scope (rule-based + ML hybrid approach)\nWeek 1\u20132\n\u25cf Setup dev environment and test data pipelines\n\u25cf Write log collectors for systemd journal and SELinux\nWeek 3\u20134\n\u25cf Develop initial parsing and preprocessing pipeline\n\u25cf Start with rule-based classifier (regexes, basic heuristics)",
+      "subsections": []
+    },
+    {
+      "heading": "Page 3",
+      "content": "Week 5\u20137\n\u25cf Introduce ML pipeline (scikit-learn baseline: Naive Bayes/SVM)\n\u25cf Create CLI prototype with real-time classification\n\u25cf Write unit tests for pipeline and model evaluation\nMidterm Evaluation\n\u25cf Functional log triage system with basic ML\n\u25cf Working CLI to test on simulated log files\nWeek 8\u201310\n\u25cf Expand model with NLP (simple LSTM or Transformer via PyTorch/Tensorflow)\n\u25cf Add noise filtering and priority scoring logic\nWeek 11\u201312\n\u25cf Package tool as RPM\n\u25cf Write documentation and final test coverage\n\u25cf Prepare final report and showcase demo\nTechnical Approach\n\u25cf Log Collection: Use journalctl, ausearch, and SELinux audit tools to gather logs.\n\u25cf Preprocessing: Normalize timestamps, extract fields, clean text.\n\u25cf Modeling:\n\u25cb Start with rules/regexes for known log patterns",
+      "subsections": []
+    },
+    {
+      "heading": "Page 4",
+      "content": "\u25cb Add ML-based classification (supervised model trained on labeled log types)\n\u25cb Optional: Enhance with BERT/LSTM for NLP-based classification\n\u25cf Packaging: RPM with scripts and dependencies\n\u25cf Testing: Unit tests with pytest, performance evaluation using recall/precision\nAbout Me\nI am an engineering student from India with strong backend experience in Python, Bash\nscripting, and system-level Linux work. I'm actively learning AI/ML, security, and automation.\nI've built OCR tools in Rust and backend systems in Django. This project aligns with both my\ninterests and skillset \u2014 particularly Linux internals, AI, and security.\nWhy Fedora & GSoC\nFedora is a bleeding-edge distro that emphasizes open standards and community. Working with\nFedora will allow me to contribute meaningfully to security tooling and sharpen my skills in\nreal-world environments. GSoC offers the ideal structure and mentorship to bring this idea to\nlife.\nFuture Scope\n\u25cf Add GUI for real-time log dashboards\n\u25cf Integrate with SIEM tools (e.g., Wazuh, Splunk)\n\u25cf Add support for network-based logs (syslog, rsyslog)\n\u25cf Enable automated remediation for high-severity alerts",
+      "subsections": []
+    },
+    {
+      "heading": "Page 5",
+      "content": "Appendix\n\u25cf Technologies: Python, Bash, Scikit-learn, PyTorch, TensorFlow, Fedora RPM Packaging\n\u25cf Topics: AI, Security, NLP, System Monitoring, Linux Internals",
+      "subsections": []
+    }
+  ]
+}
